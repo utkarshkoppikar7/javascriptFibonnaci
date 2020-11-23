@@ -19,8 +19,11 @@
 	position: relative;
 	background-color: #555555;
 	color: white;
-  padding: 20px 40px;
+  padding: 30px 60px;
   top:10px;
+  
+  font-size: 30px;
+  
 }
 
 #div1{
@@ -29,6 +32,7 @@
 	position: relative;
 	margin : auto;
   width :  80%;
+  
   border : 4px solid #000000;
   font-size: 30px;
 }
