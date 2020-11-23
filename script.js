@@ -13,4 +13,7 @@ var num1=0;
     para.appendChild(node);
     var element = document.getElementById("div1");
     element.appendChild(para);
+    if(num2>100){
+      alert("Go on get a Life!!");
+    }
   }
